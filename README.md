@@ -6,6 +6,9 @@ Coding More Offten now.
 
 ![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=unlogable&show_icons=true&layout=compact&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unlogable&theme=dark&layout=compact)
+
+
 https://dsc.bio/treeshing
 https://www.youtube.com/channel/UCxMk-osy-Ar3LYSlPLX6WZg
 https://discord.gg/summers
