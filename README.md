@@ -6,7 +6,7 @@ Coding More Offten now.
 
 ![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=unlogable&show_icons=true&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unlogable&theme=dark&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usernameunlogable&show_icons=true&theme=dark)
 
 
 https://dsc.bio/treeshing
