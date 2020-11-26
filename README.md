@@ -2,7 +2,7 @@ Hi there 👋 im (chris 3x#3888)
 
 Coding More Offten now.
 
-<img src="https://cdn.discordapp.com/attachments/775212346401620018/781545146629357568/image0-243.gif" alt="Avatar" style="border-radius: 75%;">
+<img src="https://cdn.discordapp.com/attachments/775212346401620018/781545146629357568/image0-243.gif" alt="Avatar" style="border-radius: 100%;">
 
 ![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=unlogable&show_icons=true&layout=compact&theme=tokyonight)
 
