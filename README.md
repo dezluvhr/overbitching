@@ -1,12 +1,12 @@
-Hi there 👋 im (chris 3x#3888)
+Hi im the koolest wok alive 😈
 
 Coding More Offten now.
 
 <img src="https://cdn.discordapp.com/attachments/775212346401620018/781547766890496030/IMG_exlaqu.gif" alt="Avatar" style="border-radius: 75%;">
 
-![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=unlogable&show_icons=true&layout=compact&theme=tokyonight)
+![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=5wok&show_icons=true&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unlogable&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5wok&show_icons=true&theme=dark)
 
 
 <a href="https://www.https://www.youtube.com/channel/UCxMk-osy-Ar3LYSlPLX6WZg">youtube</a>
