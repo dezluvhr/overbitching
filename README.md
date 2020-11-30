@@ -1,6 +1,6 @@
-Hi im the koolest wok alive 😈
+Hi im the koolest Baesian Alive Other BaesiansK
 
-Coding More Offten now.
+Retired Coder 
 
 <img src="https://cdn.discordapp.com/attachments/775212346401620018/781547766890496030/IMG_exlaqu.gif" alt="Avatar" style="border-radius: 75%;">
 
