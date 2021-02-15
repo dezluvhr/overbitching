@@ -1,4 +1,4 @@
-Deddy JahW/VyrusW/vlaterW/WlangW/VaderW || Skidding my repostoriesK
+Active Again On Github Lmao
 
 Retired Coder 
 
