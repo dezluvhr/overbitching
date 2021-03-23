@@ -6,7 +6,7 @@ Retired Coder
 
 ![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=dezluvhr&show_icons=true&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dezluvher&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dezluvhr&show_icons=true&theme=dark)
 
 
 <a href="https://www.https://www.youtube.com/channel/UCxMk-osy-Ar3LYSlPLX6WZg">youtube</a>
